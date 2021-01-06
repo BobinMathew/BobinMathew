@@ -15,6 +15,4 @@
 * Bootstrap
 * React JS
 
-https://img.shields.io/badge/<LABEL>-<JAVA>-<RED>
-
 ![BobinMathew's github stats](https://github-readme-stats.vercel.app/api?username=BobinMathew&show_icons=true)
