@@ -33,4 +33,6 @@
 
 <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobinMathew)](https://github.com/BobinMathew/github-readme-stats)
+</br>
 ![BobinMathew's github stats](https://github-readme-stats.vercel.app/api?username=BobinMathew&show_icons=true)
