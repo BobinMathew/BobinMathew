@@ -1,6 +1,5 @@
 ### Hi there, I'm Bobin 👋
 
-![](https://komarev.com/ghpvc/?username=your-BobinMathew&color=green&style=flat-square)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobinMathew)](https://github.com/BobinMathew/github-readme-stats)
 
@@ -27,7 +26,7 @@
 
 ### Databases
 
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a> <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 ### ML/DL
 
