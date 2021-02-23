@@ -36,4 +36,6 @@
 </br>
 ![BobinMathew's github stats](https://github-readme-stats.vercel.app/api?username=BobinMathew&show_icons=true)
 
-![Funny Gif](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)
+<!--![Funny Gif](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)-->
+
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="500px" style="max-width:100%;"/>
