@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=your-BobinMathew&color=green&style=flat-square)
 
 Computer Science student 👨‍🎓
-### Interested 
+### Interests 
 - Web Development
 - Competitive Programming
 - Open Source Contributions
