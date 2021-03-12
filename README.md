@@ -48,7 +48,8 @@ Computer Science student 👨‍🎓
 
 ### OS
 
-<a href=""><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a> 
+<a href=""><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 
 ![BobinMathew's github stats](https://github-readme-stats.vercel.app/api?username=BobinMathew&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobinMathew)](https://github.com/BobinMathew/github-readme-stats) 
 
