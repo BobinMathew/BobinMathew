@@ -29,8 +29,7 @@ Computer Science student 👨‍🎓
 ### Social
 
 <a href="https://www.linkedin.com/in/bobin-mathew"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/bobinm3"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> 
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKjDXfblNKdcZMvzfkhNWCSPBrxxMRsWPDhhglrPPhnzxtPcNNqckLqTbRCbwCbbCRKxJvh"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKjDXfblNKdcZMvzfkhNWCSPBrxxMRsWPDhhglrPPhnzxtPcNNqckLqTbRCbwCbbCRKxJvh"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 ### Hosting/SaaS
@@ -51,6 +50,7 @@ Computer Science student 👨‍🎓
 <a href=""><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a> 
 <a href=""><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></a>
 
 
 ![BobinMathew's github stats](https://github-readme-stats.vercel.app/api?username=BobinMathew&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobinMathew)](https://github.com/BobinMathew/github-readme-stats) 
