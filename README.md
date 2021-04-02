@@ -3,12 +3,17 @@
 ![](https://komarev.com/ghpvc/?username=your-BobinMathew&color=green&style=flat-square)
 
 Computer Science student 👨‍🎓
+
+---
 ### Interests 
+
 - Web Development
 - Competitive Programming
 - Open Source Contributions
 - Machine Learning
 
+
+---
 ### Skills
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a> 
@@ -19,6 +24,7 @@ Computer Science student 👨‍🎓
 <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a> 
 <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></a>
 
+---
 ### Frameworks
 
 <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/></a> 
@@ -27,12 +33,15 @@ Computer Science student 👨‍🎓
 <a href="https://material-ui.com/"><img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/></a> 
 <a href="https://jquery.com/"><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/></a>
 
+---
 ### Version Control
 
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a> 
 <a href="https://github.com/"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://bitbucket.org/product"><img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white"/></a>
 
+
+---
 ### Social
 
 <a href="https://www.linkedin.com/in/bobin-mathew"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
@@ -41,22 +50,30 @@ Computer Science student 👨‍🎓
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKjDXfblNKdcZMvzfkhNWCSPBrxxMRsWPDhhglrPPhnzxtPcNNqckLqTbRCbwCbbCRKxJvh"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
+
+---
 ### Hosting/SaaS
 
 <a href="https://www.heroku.com/"><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></a> 
 <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/></b>
 
+
+---
 ### Databases
 
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a> 
 <a href="https://www.postgresql.org/"><img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/></a> 
 <a href="https://www.sqlite.org/index.html"><img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/></a>
 
+
+---
 ### ML/DL
 
 <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/></a> 
 <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /></a> 
 
+
+---
 ### OS
 
 <a href="https://www.android.com/intl/en_in/"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a> 
