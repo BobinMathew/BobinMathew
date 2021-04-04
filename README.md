@@ -12,6 +12,10 @@ Computer Science student 👨‍🎓
 - Open Source Contributions
 - Machine Learning
 
+---
+### Projects
+Netflix Clone -> https://netflix-clone-92546.web.app/
+
 
 ---
 ### Skills
