@@ -15,6 +15,7 @@ Computer Science student 👨‍🎓
 ---
 ### Projects
 Netflix Clone -> https://netflix-clone-92546.web.app/
+Twitter Clone -> https://twitter-clone-3cd97.web.app/
 
 
 ---
