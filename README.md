@@ -93,4 +93,4 @@ Computer Science student 👨‍🎓
 
 <!--![Funny Gif](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)-->
 
-<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="500px" style="max-width:100%;"/>
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="800px" height="500px" style="max-width:100%;"/>
