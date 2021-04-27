@@ -91,7 +91,7 @@ Computer Science student 👨‍🎓
 
 ---
 
-![BobinMathew's github stats](https://github-readme-stats.vercel.app/api?username=BobinMathew&show_icons=true&theme=dracula)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobinMathew&theme=dracula)](https://github.com/BobinMathew/github-readme-stats) 
+![BobinMathew's github stats](https://github-readme-stats.vercel.app/api?username=BobinMathew&show_icons=true&theme=merko)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobinMathew&theme=merko)](https://github.com/BobinMathew/github-readme-stats) 
 
 <!--![Funny Gif](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)-->
 
