@@ -38,7 +38,7 @@ Computer Science student 👨‍🎓
 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a> 
 <a href="https://material-ui.com/"><img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/></a> 
 <a href="https://jquery.com/"><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/></a>
-<!-- <a href=""><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a> -->
+<!-- <a href="https://codepen.io/"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a> -->
 
 ---
 ### Version Control
