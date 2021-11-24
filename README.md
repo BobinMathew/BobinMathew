@@ -15,7 +15,9 @@ Computer Science student 👨‍🎓
 ---
 ### Projects
 - Netflix Clone  -> https://netflix-clone-92546.web.app/ 
+  https://www.loom.com/share/2fe3574acd3f4d7b9bfb1a526013058e?sharedAppSource=personal_library
 - Twitter Clone  -> https://twitter-clone-3cd97.web.app/
+  https://www.loom.com/share/2db660a66c814995b79b06964310c997?sharedAppSource=personal_library
 - CRUD operation -> https://django-todo-app-v3.herokuapp.com/
 - Social media app with Django -> https://my-soc-med.herokuapp.com/
 - Django ReactJs app -> https://djre-app-1.web.app/
