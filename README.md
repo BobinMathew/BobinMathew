@@ -23,7 +23,11 @@ Computer Science student 👨‍🎓
   https://www.loom.com/share/2db660a66c814995b79b06964310c997?sharedAppSource=personal_library
   
 - CRUD operation -> https://django-todo-app-v3.herokuapp.com/
+
 - Social media app with Django -> https://my-soc-med.herokuapp.com/
+
+  https://www.loom.com/share/96179f3272f94b14ab74dc722e4e2ebf
+
 - Django ReactJs app -> https://djre-app-1.web.app/
   
   https://www.loom.com/share/71bd4bdd88114e04a075e07150eb0b88
