@@ -16,7 +16,7 @@ Computer Science student 👨‍🎓
 ### Projects
 - Netflix Clone  -> https://netflix-clone-92546.web.app/ 
   
-  [](https://www.loom.com/share/2fe3574acd3f4d7b9bfb1a526013058e?sharedAppSource=personal_library)
+  https://www.loom.com/share/2fe3574acd3f4d7b9bfb1a526013058e?sharedAppSource=personal_library?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true. 
   
 - Twitter Clone  -> https://twitter-clone-3cd97.web.app/
   
