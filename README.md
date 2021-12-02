@@ -14,14 +14,14 @@ Computer Science student 👨‍🎓
 
 ---
 ### Projects
-- Netflix Clone  -> https://netflix-clone-92546.web.app/ 
-  
+- Netflix Clone  -> <!-- https://netflix-clone-92546.web.app/ -->
+  <!--
   https://www.loom.com/share/2fe3574acd3f4d7b9bfb1a526013058e
-  
-- Twitter Clone  -> https://twitter-clone-3cd97.web.app/
-  
+  -->
+- Twitter Clone  -> <!-- https://twitter-clone-3cd97.web.app/ -->
+  <!--
   https://www.loom.com/share/2db660a66c814995b79b06964310c997
-  
+  -->
 - CRUD operation -> https://django-todo-app-v3.herokuapp.com/
 
 - Social media app with Django -> https://my-soc-med.herokuapp.com/
